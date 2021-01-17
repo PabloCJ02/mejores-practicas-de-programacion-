@@ -9,23 +9,23 @@
 .item
 {
     border-radius: 5px;
-    padding: 10px;
+    padding: 5px;
     background: #f2f2f2;
 }
 
-.item img 
+.item img
 {
-    max-width: 100%;
+    max-width: 70%;
 }
 
 .level-1
 {
-    grid-row-end: span 2;
+    grid-row-end: span 1;
 }
 
 .level-2
 {
-    grid-row-end: span 1,
+    grid-row-end: span 1;
 }
 
 .level-3
